@@ -1,4 +1,4 @@
-package de.olafkock.liferay.documentation.audioguide.resolver;
+package de.olafkock.liferay.documentation.resolver.expando;
 
 import com.liferay.expando.kernel.model.ExpandoBridge;
 import com.liferay.expando.kernel.model.ExpandoColumnConstants;
@@ -22,6 +22,11 @@ import de.olafkock.liferay.documentation.api.DocumentationResolver;
 		)
 public class LayoutExpandoAudioguideResolverImpl implements DocumentationResolver {
 
+	@Override
+	public int getOrder() {
+		return 0;
+	}
+	
 	@Override
 	public DocumentationEntry getDocumentationEntry(HttpServletRequest request) {
 		DocumentationEntry entry = null;
