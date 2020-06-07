@@ -1,4 +1,4 @@
-package de.olafkock.liferay.documentation.audioguide.resolver;
+package de.olafkock.liferay.documentation.resolver.expando;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
 
