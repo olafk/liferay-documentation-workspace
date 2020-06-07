@@ -1,0 +1,3135 @@
+[
+	{
+		"portletId": "com_liferay_staging_processes_web_portlet_StagingProcessesPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "*"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_assisteddemo_ReplayPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "*"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_marketplace_store_web_portlet_MarketplaceStorePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "*"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "*"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_password_policies_admin_web_portlet_PasswordPoliciesAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_password_policies_admin_web_portlet_PasswordPoliciesAdminPortlet.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/password-policies.mp4",
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_password_policies_admin_web_portlet_PasswordPoliciesAdminPortlet\/edit_password_policy.jsp.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/password-policies.mp4",
+				"secondary": "edit_password_policy.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_my_account_web_portlet_MyAccountPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_my_account_web_portlet_MyAccountPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_sharing_web_portlet_SharedAssetsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_sharing_web_portlet_SharedAssetsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_asset_categories_admin_web_portlet_AssetCategoriesAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_asset_categories_admin_web_portlet_AssetCategoriesAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_adaptive_media_web_portlet_AMPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_adaptive_media_web_portlet_AMPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_account_admin_web_internal_portlet_CommerceAccountAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_account_admin_web_internal_portlet_CommerceAccountAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_account_admin_web_internal_portlet_CommerceAccountAdminPortlet\/editCommerceAccount.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceAccount"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_plugins_admin_web_portlet_PluginsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_plugins_admin_web_portlet_PluginsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_plugins_admin_web_portlet_PluginsAdminPortlet\/themes.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "themes"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_plugins_admin_web_portlet_PluginsAdminPortlet\/layout-templates.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "layout-templates"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_knowledge_base_web_portlet_AdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_knowledge_base_web_portlet_AdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_knowledge_base_web_portlet_AdminPortlet\/admin_view_templates.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "admin_view_templates.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_knowledge_base_web_portlet_AdminPortlet\/admin_view_suggestions.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "admin_view_suggestions.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_notifications_web_portlet_NotificationsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_notifications_web_portlet_NotificationsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_dynamic_data_lists_web_portlet_DDLPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_lists_web_portlet_DDLPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_web_internal_portlet_ControlPanelWorkflowInstancePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_internal_portlet_ControlPanelWorkflowInstancePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_dynamic_data_mapping_web_portlet_PortletDisplayTemplatePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_web_portlet_PortletDisplayTemplatePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_web_portlet_PortletDisplayTemplatePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "display"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/analytics.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "analytics"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/default-user-associations.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "default-user-associations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.journal.configuration.JournalServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.configuration.JournalServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.layout.seo.internal.configuration.LayoutSEOCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.seo.internal.configuration.LayoutSEOCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.document.library.opener.onedrive.web.internal.configuration.DLOneDriveCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.opener.onedrive.web.internal.configuration.DLOneDriveCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.fragment.entry.processor.freemarker.internal.configuration.FreeMarkerFragmentEntryProcessorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.entry.processor.freemarker.internal.configuration.FreeMarkerFragmentEntryProcessorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.exportimport.configuration.ExportImportServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.exportimport.configuration.ExportImportServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/appearance.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "appearance"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/general-authentication.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "general-authentication"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/third-party-maps.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "third-party-maps"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/account-created-notification.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "account-created-notification"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/language.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "language"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.AuthorizeScreenConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.AuthorizeScreenConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.announcements.web.internal.configuration.AnnouncementsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.announcements.web.internal.configuration.AnnouncementsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/ldap-export.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "ldap-export"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.asset.auto.tagger.google.cloud.natural.language.internal.configuration.GCloudNaturalLanguageAssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.google.cloud.natural.language.internal.configuration.GCloudNaturalLanguageAssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.comment.configuration.CommentGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.comment.configuration.CommentGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/cas.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "cas"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.blogs.configuration.BlogsGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.configuration.BlogsGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.flags.configuration.FlagsGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.flags.configuration.FlagsGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.document.library.google.drive.configuration.DLGoogleDriveCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.google.drive.configuration.DLGoogleDriveCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.dynamic.data.mapping.form.web.internal.configuration.DDMFormWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.mapping.form.web.internal.configuration.DDMFormWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.knowledge.base.configuration.KBGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.configuration.KBGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.dynamic.data.mapping.configuration.DDMGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.mapping.configuration.DDMGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.asset.categories.navigation.web.internal.configuration.AssetCategoriesNavigationPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.categories.navigation.web.internal.configuration.AssetCategoriesNavigationPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.iframe.web.internal.configuration.IFramePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.iframe.web.internal.configuration.IFramePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.product.navigation.personal.menu.configuration.PersonalMenuConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.product.navigation.personal.menu.configuration.PersonalMenuConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.fragment.configuration.FragmentServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.configuration.FragmentServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.portal.workflow.metrics.internal.configuration.WorkflowMetricsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.metrics.internal.configuration.WorkflowMetricsConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.sharing.internal.configuration.SharingCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.sharing.internal.configuration.SharingCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.rss.web.internal.configuration.RSSPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.rss.web.internal.configuration.RSSPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.social.activity.configuration.SocialActivityGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.social.activity.configuration.SocialActivityGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.wiki.configuration.WikiGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.wiki.configuration.WikiGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/mail-host-names.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "mail-host-names"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/email-sender.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "email-sender"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/email-verification-notification.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "email-verification-notification"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/password-changed-notification.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "password-changed-notification"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/password-reset-notification.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "password-reset-notification"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/contact-information.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "contact-information"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/general.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "general"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/terms-of-use.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "terms-of-use"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/time-zone.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "time-zone"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguagePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguagePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/reserved-credentials.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "reserved-credentials"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/user-fields.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "user-fields"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/ldap-general.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "ldap-general"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/ldap-import.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "ldap-import"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/ldap-servers.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "ldap-servers"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/portal_settings_edit_ldap_server.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "portal_settings_edit_ldap_server"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.portal.security.sso.token.internal.configuration.TokenConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.token.internal.configuration.TokenConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.asset.auto.tagger.opennlp.internal.configuration.OpenNLPDocumentAssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.opennlp.internal.configuration.OpenNLPDocumentAssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/openid-connect.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "openid-connect"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.google.cloud.vision.internal.configuration.GCloudVisionAssetAutoTagProviderCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.google.cloud.vision.internal.configuration.GCloudVisionAssetAutoTagProviderCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/facebook-connect.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "facebook-connect"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services.internal.configuration.MSCognitiveServicesAssetAutoTagProviderCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services.internal.configuration.MSCognitiveServicesAssetAutoTagProviderCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/opensso.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "opensso"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.asset.publisher.web.internal.configuration.AssetPublisherPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.publisher.web.internal.configuration.AssetPublisherPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.blogs.web.internal.configuration.BlogsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.web.internal.configuration.BlogsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/mentions.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "mentions"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/social-ratings.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "social-ratings"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.nested.portlets.web.internal.configuration.NestedPortletsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.nested.portlets.web.internal.configuration.NestedPortletsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBArticlePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBArticlePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBDisplayPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBDisplayPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBSearchPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBSearchPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBSectionPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBSectionPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.site.navigation.directory.web.internal.configuration.SitesDirectoryPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.directory.web.internal.configuration.SitesDirectoryPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.site.navigation.site.map.web.internal.configuration.SiteNavigationSiteMapPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.site.map.web.internal.configuration.SiteNavigationSiteMapPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.fragment.entry.processor.freemarker.configuration.FreeMarkerFragmentEntryProcessorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.entry.processor.freemarker.configuration.FreeMarkerFragmentEntryProcessorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.fragment.web.internal.configuration.FragmentPortletConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.web.internal.configuration.FragmentPortletConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/content-sharing.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "content-sharing"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.journal.configuration.JournalGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.configuration.JournalGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.journal.content.web.internal.configuration.JournalContentPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.content.web.internal.configuration.JournalContentPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet\/com.liferay.wiki.web.internal.configuration.WikiPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.wiki.web.internal.configuration.WikiPortletInstanceConfiguration"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_monitoring_web_portlet_MonitoringPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_monitoring_web_portlet_MonitoringPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_shipment_web_internal_portlet_CommerceShipmentPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_shipment_web_internal_portlet_CommerceShipmentPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_shipment_web_internal_portlet_CommerceShipmentPortlet\/editCommerceShipment.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceShipment"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_trash_web_portlet_TrashPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_trash_web_portlet_TrashPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_order_web_internal_portlet_CommerceOrderPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_order_web_internal_portlet_CommerceOrderPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_order_web_internal_portlet_CommerceOrderPortlet\/pending.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "pending"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_order_web_internal_portlet_CommerceOrderPortlet\/transmitted.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "transmitted"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_document_library_web_portlet_DLAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_document_library_web_portlet_DLAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_document_library_web_portlet_DLAdminPortlet\/file_entry_types.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "file_entry_types"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_dynamic_data_mapping_data_provider_web_portlet_DDMDataProviderPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_data_provider_web_portlet_DDMDataProviderPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_data_provider_web_portlet_DDMDataProviderPortlet\/view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_mobile_device_rules_web_portlet_MDRPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_mobile_device_rules_web_portlet_MDRPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_layout_admin_web_portlet_GroupPagesPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/page-templates.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "page-templates"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/pages.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "pages"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/select_layout_page_template_entry.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "select_layout_page_template_entry.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/layout_edit_layout.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "layout_edit_layout"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/layout_edit_layout_set.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "layout_edit_layout_set"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/layout_edit_layout_page_template_collection.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "layout_edit_layout_page_template_collection"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_admin_web_portlet_GroupPagesPortlet\/display-page-templates.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "display-page-templates"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_fragment_web_portlet_FragmentPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_fragment_web_portlet_FragmentPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_fragment_web_portlet_FragmentPortlet\/fragment_edit_fragment_collection.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fragment_edit_fragment_collection"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_fragment_web_portlet_FragmentPortlet\/fragment_view.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fragment_view"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_fragment_web_portlet_FragmentPortlet\/fragment_edit_fragment_entry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "fragment_edit_fragment_entry"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_wish_list_web_internal_portlet_CommerceWishListPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_wish_list_web_internal_portlet_CommerceWishListPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_wish_list_web_internal_portlet_CommerceWishListPortlet\/viewCommerceWishListItems.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "viewCommerceWishListItems"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_users_admin_web_portlet_UsersAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_users_admin_web_portlet_UsersAdminPortlet.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/users-and-organizations-users.mp4",
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_users_admin_web_portlet_UsersAdminPortlet\/view-all-users.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/users-and-organizations-users.mp4",
+				"secondary": "view-all-users"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_users_admin_web_portlet_UsersAdminPortlet\/view-all-organizations.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/users-and-organizations-organizations.mp4",
+				"secondary": "view-all-organizations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_users_admin_web_portlet_UsersAdminPortlet\/users_admin_edit_user.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "users_admin_edit_user"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_bom_admin_web_internal_portlet_CommerceBOMAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_bom_admin_web_internal_portlet_CommerceBOMAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_bom_admin_web_internal_portlet_CommerceBOMAdminPortlet\/editCommerceBOMDefinition.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceBOMDefinition"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_kaleo_designer_web_portlet_KaleoDesignerPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_kaleo_designer_web_portlet_KaleoDesignerPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_kaleo_designer_web_portlet_KaleoDesignerPortlet\/designer_edit_kaleo_definition_version.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "designer_edit_kaleo_definition_version.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_security_service_access_policy_web_portlet_SAPPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_security_service_access_policy_web_portlet_SAPPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_users_admin_web_portlet_MyOrganizationsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_users_admin_web_portlet_MyOrganizationsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_catalog_web_internal_portlet_CommerceCatalogsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_catalog_web_internal_portlet_CommerceCatalogsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_catalog_web_internal_portlet_CommerceCatalogsPortlet\/editCommerceCatalog.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceCatalog"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_asset_list_web_portlet_AssetListPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_asset_list_web_portlet_AssetListPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_change_tracking_web_portlet_ChangeListsConfigurationPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_change_tracking_web_portlet_ChangeListsConfigurationPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_search_tuning_rankings_web_internal_portlet_ResultRankingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_search_tuning_rankings_web_internal_portlet_ResultRankingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_site_teams_web_portlet_SiteTeamsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_teams_web_portlet_SiteTeamsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/usergroups.mp4",
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet\/edit_user_group.jsp.html",
+				"mediaType": "video",
+				"mediaURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/media\/usergroups.mp4",
+				"secondary": "edit_user_group.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_message_boards_web_portlet_MBAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_message_boards_web_portlet_MBAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_message_boards_web_portlet_MBAdminPortlet\/message_boards_view_statistics.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "message_boards_view_statistics"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_message_boards_web_portlet_MBAdminPortlet\/message_boards_view_banned_users.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "message_boards_view_banned_users"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/group-instance-health-check.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "group-instance-health-check"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/notifications.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "notifications"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/viewCommerceNotificationTemplates.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "viewCommerceNotificationTemplates"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/order.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "order"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/order-fields.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "order-fields"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/payment-methods.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "payment-methods"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/product-display-pages.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "product-display-pages"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/shipping-methods.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "shipping-methods"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/site-type.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "site-type"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminGroupInstancePortlet\/taxes.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "taxes"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_journal_web_portlet_JournalPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet\/view_ddm_structures.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view_ddm_structures.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet\/view_ddm_templates.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view_ddm_templates.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet\/edit_article.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_article.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet\/edit_ddm_structure.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_ddm_structure.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_journal_web_portlet_JournalPortlet\/edit_ddm_template.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "edit_ddm_template.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_product_options_web_internal_portlet_CPOptionCategoriesPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPOptionCategoriesPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPOptionCategoriesPortlet\/view_option_categories.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view_option_categories.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPOptionCategoriesPortlet\/editProductOptionCategory.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editProductOptionCategory"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_segments_web_internal_portlet_SegmentsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_segments_web_internal_portlet_SegmentsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/editCommerceAvailabilityEstimate.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceAvailabilityEstimate"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/countries.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "countries"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/currencies.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "currencies"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/editCommerceCountry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceCountry"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/editCommerceCurrency.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceCurrency"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/default-images.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "default-images"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/measurement-units.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "measurement-units"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/view-all-dimension-product-measurement-units.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view-all-dimension-product-measurement-units"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/0.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "0"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/virtual-instance-health-check.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "virtual-instance-health-check"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/warehouses.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "warehouses"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_admin_web_internal_portlet_CommerceAdminVirtualInstancePortlet\/editCommerceInventoryWarehouse.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceInventoryWarehouse"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_task_web_portlet_MyWorkflowTaskPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_task_web_portlet_MyWorkflowTaskPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet\/alerts.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "alerts"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_announcements_web_portlet_AnnouncementsAdminPortlet\/announcements_edit_entry.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "announcements_edit_entry"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_site_memberships_web_portlet_SiteMembershipsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_memberships_web_portlet_SiteMembershipsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_memberships_web_portlet_SiteMembershipsPortlet\/organizations.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "organizations"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_memberships_web_portlet_SiteMembershipsPortlet\/user-groups.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "user-groups"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_product_options_web_internal_portlet_CPSpecificationOptionsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPSpecificationOptionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPSpecificationOptionsPortlet\/view_specification_options.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view_specification_options.jsp"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPSpecificationOptionsPortlet\/editProductSpecificationOption.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editProductSpecificationOption"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_license_manager_web_portlet_LicenseManagerPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_license_manager_web_portlet_LicenseManagerPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_oauth2_provider_web_internal_portlet_OAuth2ConnectedApplicationsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_oauth2_provider_web_internal_portlet_OAuth2ConnectedApplicationsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_web_internal_portlet_UserWorkflowPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_internal_portlet_UserWorkflowPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_gogo_shell_web_internal_portlet_GogoShellPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_gogo_shell_web_internal_portlet_GogoShellPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_metrics_web_internal_portlet_WorkflowMetricsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_metrics_web_internal_portlet_WorkflowMetricsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet\/view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_price_list_web_internal_portlet_CommercePriceListPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_price_list_web_internal_portlet_CommercePriceListPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_price_list_web_internal_portlet_CommercePriceListPortlet\/editCommercePriceList.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommercePriceList"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_lcs_client_web_internal_portlet_LCSClientPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_lcs_client_web_internal_portlet_LCSClientPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_asset_tags_admin_web_portlet_AssetTagsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_asset_tags_admin_web_portlet_AssetTagsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet\/field-mappings.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "field-mappings"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_account_group_admin_web_internal_portlet_CommerceAccountGroupAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_account_group_admin_web_internal_portlet_CommerceAccountGroupAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_account_group_admin_web_internal_portlet_CommerceAccountGroupAdminPortlet\/editCommerceAccountGroup.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceAccountGroup"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_subscription_web_internal_portlet_CommerceSubscriptionEntryPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_subscription_web_internal_portlet_CommerceSubscriptionEntryPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.theme.font.awesome.web.internal.configuration.CSSFontAwesomeConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.theme.font.awesome.web.internal.configuration.CSSFontAwesomeConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/de.olafkock.liferay.translationhelper.Configuration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "de.olafkock.liferay.translationhelper.Configuration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/search.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "search"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.document.conversion.internal.configuration.OpenOfficeConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.document.conversion.internal.configuration.OpenOfficeConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.repository.cmis.configuration.CMISRepositoryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.repository.cmis.configuration.CMISRepositoryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.change.tracking.configuration.CTConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.change.tracking.configuration.CTConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.store.file.system.configuration.AdvancedFileSystemStoreConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.store.file.system.configuration.AdvancedFileSystemStoreConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.store.file.system.configuration.FileSystemStoreConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.store.file.system.configuration.FileSystemStoreConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.store.s3.configuration.S3StoreConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.store.s3.configuration.S3StoreConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.frontend.js.minifier.configuration.YahooJavaScriptMinifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.frontend.js.minifier.configuration.YahooJavaScriptMinifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.ldap.authenticator.configuration.LDAPAuthConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.ldap.authenticator.configuration.LDAPAuthConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.ldap.configuration.LDAPServerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.ldap.configuration.LDAPServerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.ldap.configuration.SystemLDAPConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.ldap.configuration.SystemLDAPConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.ldap.exportimport.configuration.LDAPExportConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.ldap.exportimport.configuration.LDAPExportConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.ldap.exportimport.configuration.LDAPImportConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.ldap.exportimport.configuration.LDAPImportConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.cxf.common.configuration.CXFEndpointPublisherConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.cxf.common.configuration.CXFEndpointPublisherConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.rest.extender.configuration.RestExtenderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.rest.extender.configuration.RestExtenderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.soap.extender.internal.configuration.JaxWsApiConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.soap.extender.internal.configuration.JaxWsApiConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.soap.extender.internal.configuration.SoapExtenderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.soap.extender.internal.configuration.SoapExtenderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.document.conversion.internal.security.auth.verifier.image.request.module.configuration.ImageRequestAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.document.conversion.internal.security.auth.verifier.image.request.module.configuration.ImageRequestAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.audit.configuration.AuditConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.audit.configuration.AuditConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.configuration.OAuth2ProviderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.configuration.OAuth2ProviderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.captcha.configuration.CaptchaConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.captcha.configuration.CaptchaConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.cas.configuration.CASConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.cas.configuration.CASConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auth.verifier.internal.request.parameter.module.configuration.RequestParameterAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auth.verifier.internal.request.parameter.module.configuration.RequestParameterAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auth.verifier.internal.digest.authentication.module.configuration.DigestAuthenticationAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auth.verifier.internal.digest.authentication.module.configuration.DigestAuthenticationAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.http.tunnel.extender.configuration.HttpTunnelExtenderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.http.tunnel.extender.configuration.HttpTunnelExtenderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auth.verifier.internal.portal.session.module.configuration.PortalSessionAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auth.verifier.internal.portal.session.module.configuration.PortalSessionAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auth.verifier.internal.tunnel.module.configuration.TunnelAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auth.verifier.internal.tunnel.module.configuration.TunnelAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auth.verifier.internal.basic.auth.header.module.configuration.BasicAuthHeaderAuthVerifierConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auth.verifier.internal.basic.auth.header.module.configuration.BasicAuthHeaderAuthVerifierConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auto.login.basic.auth.header.module.configuration.BasicAuthHeaderAutoLoginConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auto.login.basic.auth.header.module.configuration.BasicAuthHeaderAutoLoginConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auto.login.request.header.module.configuration.RequestHeaderAutoLoginConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auto.login.request.header.module.configuration.RequestHeaderAutoLoginConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.auto.login.request.parameter.module.configuration.RequestParameterAutoLoginConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.auto.login.request.parameter.module.configuration.RequestParameterAutoLoginConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.service.access.policy.configuration.SAPConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.service.access.policy.configuration.SAPConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.service.access.quota.configuration.SAQConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.service.access.quota.configuration.SAQConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.audit.router.configuration.CSVLogMessageFormatterConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.audit.router.configuration.CSVLogMessageFormatterConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.audit.router.configuration.PersistentAuditMessageProcessorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.audit.router.configuration.PersistentAuditMessageProcessorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.audit.router.configuration.LoggingAuditMessageProcessorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.audit.router.configuration.LoggingAuditMessageProcessorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.jsonws.internal.configuration.OAuth2JSONWSConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.jsonws.internal.configuration.OAuth2JSONWSConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.OAuth2AuthorizationFlowConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.OAuth2AuthorizationFlowConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.rest.internal.jaxrs.feature.configuration.ConfigurableScopeCheckerFeatureConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.rest.internal.jaxrs.feature.configuration.ConfigurableScopeCheckerFeatureConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.rest.internal.spi.bearer.token.provider.configuration.DefaultBearerTokenProviderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.rest.internal.spi.bearer.token.provider.configuration.DefaultBearerTokenProviderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.scope.internal.configuration.BundlePrefixHandlerFactoryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.scope.internal.configuration.BundlePrefixHandlerFactoryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.scope.internal.configuration.ConfigurableScopeMapperConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.scope.internal.configuration.ConfigurableScopeMapperConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.scope.internal.configuration.ScopeLocatorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.scope.internal.configuration.ScopeLocatorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.AuthorizeScreenConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.oauth2.provider.rest.internal.endpoint.authorize.configuration.AuthorizeScreenConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.cors.configuration.PortalCORSConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.cors.configuration.PortalCORSConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.remote.cors.configuration.WebContextCORSConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.remote.cors.configuration.WebContextCORSConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.antisamy.configuration.AntiSamyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.antisamy.configuration.AntiSamyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.permission.internal.configuration.InlinePermissionConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.permission.internal.configuration.InlinePermissionConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.facebook.connect.configuration.FacebookConnectConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.facebook.connect.configuration.FacebookConnectConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.openid.connect.configuration.OpenIdConnectConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.openid.connect.configuration.OpenIdConnectConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.openid.connect.internal.configuration.OpenIdConnectProviderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.openid.connect.internal.configuration.OpenIdConnectProviderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.opensso.configuration.OpenSSOConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.opensso.configuration.OpenSSOConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.security.sso.token.internal.configuration.TokenConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.security.sso.token.internal.configuration.TokenConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.adaptive.media.image.internal.configuration.AMImageConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.adaptive.media.image.internal.configuration.AMImageConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.announcements.web.internal.configuration.AnnouncementsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.announcements.web.internal.configuration.AnnouncementsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerSystemConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerSystemConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.comment.configuration.CommentGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.comment.configuration.CommentGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.blogs.configuration.BlogsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.configuration.BlogsConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbWebTemplateConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbWebTemplateConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.taglib.form.navigator.internal.configuration.FormNavigatorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.taglib.form.navigator.internal.configuration.FormNavigatorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.mentions.configuration.MentionsGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.mentions.configuration.MentionsGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.dynamic.data.lists.configuration.DDLServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.lists.configuration.DDLServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.dynamic.data.mapping.web.internal.configuration.DDMWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.mapping.web.internal.configuration.DDMWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.configuration.DLConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.configuration.DLConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.iframe.web.internal.configuration.IFramePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.iframe.web.internal.configuration.IFramePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.fragment.configuration.FragmentServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.configuration.FragmentServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.layout.admin.web.internal.configuration.LayoutAdminWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.layout.admin.web.internal.configuration.LayoutAdminWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.message.boards.configuration.MBConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.message.boards.configuration.MBConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.knowledge.base.configuration.KBGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.configuration.KBGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuWebTemplateConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuWebTemplateConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.segments.asah.connector.internal.configuration.SegmentsAsahConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.segments.asah.connector.internal.configuration.SegmentsAsahConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.sharing.internal.configuration.SharingSystemConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.sharing.internal.configuration.SharingSystemConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.adaptive.media.web.internal.configuration.AMConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.adaptive.media.web.internal.configuration.AMConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.workflow.configuration.WorkflowDefinitionConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.configuration.WorkflowDefinitionConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.social.activity.configuration.SocialActivityGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.social.activity.configuration.SocialActivityGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.wiki.configuration.WikiFileUploadConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.wiki.configuration.WikiFileUploadConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.categories.admin.web.internal.configuration.AssetCategoriesAdminWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.categories.admin.web.internal.configuration.AssetCategoriesAdminWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.publisher.web.internal.configuration.AssetPublisherWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.publisher.web.internal.configuration.AssetPublisherWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.tensorflow.internal.configuration.TensorFlowImageAssetAutoTagProviderProcessConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.tensorflow.internal.configuration.TensorFlowImageAssetAutoTagProviderProcessConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.auto.tagger.google.cloud.natural.language.internal.configuration.GCloudNaturalLanguageAssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.google.cloud.natural.language.internal.configuration.GCloudNaturalLanguageAssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.internal.configuration.AssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.auto.tagger.opennlp.internal.configuration.OpenNLPDocumentAssetAutoTaggerCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.auto.tagger.opennlp.internal.configuration.OpenNLPDocumentAssetAutoTaggerCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.google.cloud.vision.internal.configuration.GCloudVisionAssetAutoTagProviderCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.google.cloud.vision.internal.configuration.GCloudVisionAssetAutoTagProviderCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services.internal.configuration.MSCognitiveServicesAssetAutoTagProviderCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.microsoft.cognitive.services.internal.configuration.MSCognitiveServicesAssetAutoTagProviderCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.asset.auto.tagger.tensorflow.internal.configuration.TensorFlowImageAssetAutoTagProviderCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.asset.auto.tagger.tensorflow.internal.configuration.TensorFlowImageAssetAutoTagProviderCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.publisher.web.internal.configuration.AssetPublisherPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.publisher.web.internal.configuration.AssetPublisherPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.blogs.configuration.BlogsFileUploadsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.configuration.BlogsFileUploadsConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.blogs.configuration.BlogsGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.configuration.BlogsGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.blogs.web.internal.configuration.BlogsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.blogs.web.internal.configuration.BlogsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.breadcrumb.web.internal.configuration.SiteNavigationBreadcrumbPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.subscription.web.internal.configuration.SubscriptionConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.subscription.web.internal.configuration.SubscriptionConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.flags.configuration.FlagsGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.flags.configuration.FlagsGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.nested.portlets.web.internal.configuration.NestedPortletsPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.nested.portlets.web.internal.configuration.NestedPortletsPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.configuration.DLFileEntryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.configuration.DLFileEntryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.file.rank.internal.configuration.DLFileRankServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.file.rank.internal.configuration.DLFileRankServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.item.selector.web.internal.configuration.DLImageItemSelectorViewConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.item.selector.web.internal.configuration.DLImageItemSelectorViewConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.document.library.google.drive.configuration.DLGoogleDriveCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.document.library.google.drive.configuration.DLGoogleDriveCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.dynamic.data.lists.web.internal.configuration.DDLWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.lists.web.internal.configuration.DDLWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.dynamic.data.mapping.configuration.DDMGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.mapping.configuration.DDMGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.dynamic.data.mapping.form.web.internal.configuration.DDMFormWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.dynamic.data.mapping.form.web.internal.configuration.DDMFormWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBArticlePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBArticlePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBDisplayPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBDisplayPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBSearchPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBSearchPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.knowledge.base.web.internal.configuration.KBSectionPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.knowledge.base.web.internal.configuration.KBSectionPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.asset.categories.navigation.web.internal.configuration.AssetCategoriesNavigationPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.asset.categories.navigation.web.internal.configuration.AssetCategoriesNavigationPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.directory.web.internal.configuration.SitesDirectoryPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.directory.web.internal.configuration.SitesDirectoryPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.menu.web.internal.configuration.SiteNavigationMenuPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.site.map.web.internal.configuration.SiteNavigationSiteMapPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.site.map.web.internal.configuration.SiteNavigationSiteMapPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.fragment.entry.processor.freemarker.configuration.FreeMarkerFragmentEntryProcessorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.entry.processor.freemarker.configuration.FreeMarkerFragmentEntryProcessorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.fragment.web.internal.configuration.FragmentPortletConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.fragment.web.internal.configuration.FragmentPortletConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.rss.web.internal.configuration.RSSPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.rss.web.internal.configuration.RSSPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.segments.internal.configuration.SegmentsServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.segments.internal.configuration.SegmentsServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.sharing.internal.configuration.SharingCompanyConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.sharing.internal.configuration.SharingCompanyConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.journal.web.internal.configuration.JournalWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.web.internal.configuration.JournalWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.journal.configuration.JournalServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.configuration.JournalServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.journal.configuration.JournalGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.configuration.JournalGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.journal.content.web.internal.configuration.JournalContentPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.journal.content.web.internal.configuration.JournalContentPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.wiki.configuration.WikiGroupServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.wiki.configuration.WikiGroupServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.wiki.web.internal.configuration.WikiPortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.wiki.web.internal.configuration.WikiPortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.workflow.kaleo.forms.web.internal.configuration.KaleoFormsWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.kaleo.forms.web.internal.configuration.KaleoFormsWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.workflow.task.web.internal.configuration.WorkflowTaskWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.task.web.internal.configuration.WorkflowTaskWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.workflow.web.internal.configuration.WorkflowInstanceWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.web.internal.configuration.WorkflowInstanceWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.workflow.metrics.internal.configuration.WorkflowMetricsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.workflow.metrics.internal.configuration.WorkflowMetricsConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.lcs.client.configuration.LCSConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.lcs.client.configuration.LCSConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.js.loader.modules.extender.internal.configuration.Details.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.js.loader.modules.extender.internal.configuration.Details"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.js.spa.web.internal.configuration.SPAConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.js.spa.web.internal.configuration.SPAConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.async.advice.internal.configuration.AsyncAdviceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.async.advice.internal.configuration.AsyncAdviceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.cache.multiple.configuration.PortalCacheClusterConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.cache.multiple.configuration.PortalCacheClusterConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.cluster.multiple.configuration.ClusterExecutorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.cluster.multiple.configuration.ClusterExecutorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.inactive.request.handler.configuration.InactiveRequestHandlerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.inactive.request.handler.configuration.InactiveRequestHandlerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.messaging.internal.configuration.DestinationWorkerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.messaging.internal.configuration.DestinationWorkerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.monitoring.internal.configuration.MonitoringConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.monitoring.internal.configuration.MonitoringConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.scheduler.internal.configuration.SchedulerEngineHelperConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.scheduler.internal.configuration.SchedulerEngineHelperConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.upload.internal.configuration.UploadServletRequestConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.upload.internal.configuration.UploadServletRequestConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.server.admin.web.internal.configuration.PluginRepositoriesConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.server.admin.web.internal.configuration.PluginRepositoriesConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.admin.web.internal.configuration.SiteAdminConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.admin.web.internal.configuration.SiteAdminConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.exportimport.configuration.ExportImportServiceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.exportimport.configuration.ExportImportServiceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.microsoft.translator.internal.configuration.MicrosoftTranslatorConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.microsoft.translator.internal.configuration.MicrosoftTranslatorConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguageWebTemplateConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguageWebTemplateConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguagePortletInstanceConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.site.navigation.language.web.internal.configuration.SiteNavigationLanguagePortletInstanceConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.osgi.debug.declarative.service.internal.configuration.UnsatisfiedComponentScannerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.osgi.debug.declarative.service.internal.configuration.UnsatisfiedComponentScannerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.osgi.debug.spring.extender.internal.configuration.UnavailableComponentScannerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.osgi.debug.spring.extender.internal.configuration.UnavailableComponentScannerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.DefaultKeywordQueryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.DefaultKeywordQueryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.DefaultSearchResultPermissionFilterConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.DefaultSearchResultPermissionFilterConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.IndexStatusManagerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.IndexStatusManagerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.IndexWriterHelperConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.IndexWriterHelperConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.IndexerRegistryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.IndexerRegistryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.QueryPreProcessConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.QueryPreProcessConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.ReindexConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.ReindexConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.SearchEngineHelperConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.SearchEngineHelperConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.SearchPermissionCheckerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.SearchPermissionCheckerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.configuration.TitleFieldQueryBuilderConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.configuration.TitleFieldQueryBuilderConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.elasticsearch6.configuration.ElasticsearchConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.elasticsearch6.configuration.ElasticsearchConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.search.web.internal.configuration.SearchWebConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.search.web.internal.configuration.SearchWebConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.template.freemarker.configuration.FreeMarkerEngineConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.template.freemarker.configuration.FreeMarkerEngineConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.template.xsl.configuration.XSLEngineConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.template.xsl.configuration.XSLEngineConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.template.velocity.configuration.VelocityEngineConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.template.velocity.configuration.VelocityEngineConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.template.soy.internal.configuration.SoyTemplateEngineConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.template.soy.internal.configuration.SoyTemplateEngineConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/org.apache.felix.scr.ScrService.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "org.apache.felix.scr.ScrService"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/org.apache.felix.fileinstall.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "org.apache.felix.fileinstall"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/org.apache.felix.eventadmin.impl.EventAdmin.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "org.apache.felix.eventadmin.impl.EventAdmin"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.js.lodash.web.internal.configuration.JSLodashConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.js.lodash.web.internal.configuration.JSLodashConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.frontend.js.jquery.web.internal.configuration.JSJQueryConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.frontend.js.jquery.web.internal.configuration.JSJQueryConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.upgrade.internal.configuration.ReleaseManagerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.upgrade.internal.configuration.ReleaseManagerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portal.verify.extender.internal.configuration.VerifyProcessTrackerConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portal.verify.extender.internal.configuration.VerifyProcessTrackerConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.organizations.configuration.OrganizationLinkConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.organizations.configuration.OrganizationLinkConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.product.navigation.personal.menu.configuration.PersonalMenuConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.product.navigation.personal.menu.configuration.PersonalMenuConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.users.admin.configuration.UserFileUploadsConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.users.admin.configuration.UserFileUploadsConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.user.associated.data.web.internal.configuration.AnonymousUserConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.user.associated.data.web.internal.configuration.AnonymousUserConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.portlet.configuration.web.internal.configuration.RoleVisibilityConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.portlet.configuration.web.internal.configuration.RoleVisibilityConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.password.policies.admin.web.internal.configuration.PasswordPoliciesConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.password.policies.admin.web.internal.configuration.PasswordPoliciesConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.organizations.service.internal.configuration.OrganizationTypeConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.organizations.service.internal.configuration.OrganizationTypeConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.organizations.internal.configuration.OrganizationTypeConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.organizations.internal.configuration.OrganizationTypeConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/com.liferay.adaptive.media.document.library.thumbnails.internal.configuration.AMSystemImagesConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "com.liferay.adaptive.media.document.library.thumbnails.internal.configuration.AMSystemImagesConfiguration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet\/de.olafkock.liferay.documentation.osgi.tracker.ControlPanelDocumentationConfiguration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "de.olafkock.liferay.documentation.osgi.tracker.ControlPanelDocumentationConfiguration"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_security_audit_web_portlet_AuditPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_security_audit_web_portlet_AuditPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_exportimport_web_portlet_ImportPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_exportimport_web_portlet_ImportPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_site_navigation_admin_web_portlet_SiteNavigationAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_navigation_admin_web_portlet_SiteNavigationAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_layout_set_prototype_web_portlet_LayoutSetPrototypePortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_set_prototype_web_portlet_LayoutSetPrototypePortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_blogs_web_portlet_BlogsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_blogs_web_portlet_BlogsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_blogs_web_portlet_BlogsAdminPortlet\/images.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "images"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_product_options_web_internal_portlet_CPOptionsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPOptionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_options_web_internal_portlet_CPOptionsPortlet\/cpOption.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "cpOption"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_discount_web_internal_portlet_CommerceDiscountPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_discount_web_internal_portlet_CommerceDiscountPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_discount_web_internal_portlet_CommerceDiscountPortlet\/editCommerceDiscount.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceDiscount"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_oauth2_provider_web_internal_portlet_OAuth2AdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_oauth2_provider_web_internal_portlet_OAuth2AdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_oauth2_provider_web_internal_portlet_OAuth2AdminPortlet\/admin_update_oauth2_application.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "admin_update_oauth2_application"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_channel_web_internal_portlet_CommerceChannelsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_channel_web_internal_portlet_CommerceChannelsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_channel_web_internal_portlet_CommerceChannelsPortlet\/editCommerceChannel.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editCommerceChannel"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_search_tuning_synonyms_web_internal_portlet_SynonymsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_search_tuning_synonyms_web_internal_portlet_SynonymsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_roles_admin_web_portlet_RolesAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet\/1.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "1"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet\/2.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "2"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet\/3.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "3"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet\/define-permissions.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "define-permissions"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_roles_admin_web_portlet_RolesAdminPortlet\/details.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "details"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_wiki_web_portlet_WikiAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_wiki_web_portlet_WikiAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_layout_set_prototype_web_portlet_SiteTemplateSettingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_layout_set_prototype_web_portlet_SiteTemplateSettingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_instances_web_portlet_PortalInstancesPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_instances_web_portlet_PortalInstancesPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_instances_web_portlet_PortalInstancesPortlet\/portal_instances_edit_instance.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "portal_instances_edit_instance"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_server_admin_web_portlet_ServerAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "resources"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/properties.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "properties"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/log-levels.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "log-levels"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/data-migration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "data-migration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/mail.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "mail"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/external-services.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "external-services"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/script.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "script"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_server_admin_web_portlet_ServerAdminPortlet\/shutdown.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "shutdown"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_marketplace_app_manager_web_portlet_MarketplaceAppManagerPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_marketplace_app_manager_web_portlet_MarketplaceAppManagerPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_site_admin_web_portlet_SiteSettingsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_admin_web_portlet_SiteSettingsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_site_admin_web_portlet_SiteAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_admin_web_portlet_SiteAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_site_admin_web_portlet_SiteAdminPortlet\/site_select_site_initializer.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "site_select_site_initializer"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_expando_web_portlet_ExpandoPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_expando_web_portlet_ExpandoPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_expando_web_portlet_ExpandoPortlet\/view_attributes.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view_attributes.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_polls_web_portlet_PollsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_polls_web_portlet_PollsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_kaleo_forms_web_portlet_KaleoFormsAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_kaleo_forms_web_portlet_KaleoFormsAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_exportimport_web_portlet_ExportPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_exportimport_web_portlet_ExportPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_staging_configuration_web_portlet_StagingConfigurationPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_staging_configuration_web_portlet_StagingConfigurationPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_staging_processes_web_portlet_StagingProcessesPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/processes.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "processes"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/scheduled.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "scheduled"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_staging_processes_web_portlet_StagingProcessesPortlet\/publish_templates_view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "publish_templates_view.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_portal_workflow_web_portlet_ControlPanelWorkflowPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_portlet_ControlPanelWorkflowPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_portlet_ControlPanelWorkflowPortlet\/configuration.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "configuration"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_portlet_ControlPanelWorkflowPortlet\/workflows.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "workflows"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_portal_workflow_web_portlet_ControlPanelWorkflowPortlet\/view.jsp.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "view.jsp"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/editProductDefinition.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editProductDefinition"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/editProductInstance.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editProductInstance"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/viewInstances.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "viewInstances"
+			},
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_product_definitions_web_internal_portlet_CPDefinitionsPortlet\/0.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "0"
+			},
+			{
+				"documentationURL": "",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "editProductDefinitionOptionRel"
+			}
+		]
+	},
+	{
+		"portletId": "com_liferay_commerce_application_admin_web_internal_portlet_CommerceApplicationAdminPortlet",
+		"urlConfig": [
+			{
+				"documentationURL": "https:\/\/www.olafkock.de\/liferay\/controlpaneldocumentation\/com_liferay_commerce_application_admin_web_internal_portlet_CommerceApplicationAdminPortlet.html",
+				"mediaType": null,
+				"mediaURL": null,
+				"secondary": "-"
+			}
+		]
+	}
+]
