@@ -1,9 +1,5 @@
 package de.olafkock.liferay.documentation.metaresolver;
 
-
-import com.liferay.portal.kernel.log.Log;
-import com.liferay.portal.kernel.log.LogFactoryUtil;
-
 import java.util.LinkedList;
 import java.util.List;
 
@@ -16,10 +12,10 @@ import de.olafkock.liferay.documentation.api.DocumentationResolver;
  * @author Olaf Kock
  */
 
-public class DocumentationMetaResolverImpl implements DocumentationResolver {
+public class DocumentationMetaResolverImpl {
 
-	@Override
 	public DocumentationEntry getDocumentationEntry(HttpServletRequest request) {
+		
 		DocumentationEntry entry = (DocumentationEntry) request.getAttribute("DOCUMENTATION_ENTRY");
 		if(entry != null) {
 			return entry;
@@ -37,9 +33,14 @@ public class DocumentationMetaResolverImpl implements DocumentationResolver {
 	}
 
 	public void doRegister(DocumentationResolver resolver) {
-		if(resolver != this) {
-			resolvers.add(resolver);
+		int index = 0;
+		for (DocumentationResolver existing : resolvers) {
+			if(existing.getOrder() < resolver.getOrder()) {
+				index++;
+			} else 
+				break;
 		}
+		resolvers.add(index, resolver);
 	}
 	
 	public void doUnRegister(DocumentationResolver resolver) {
@@ -47,6 +48,4 @@ public class DocumentationMetaResolverImpl implements DocumentationResolver {
 	}
 	
 	volatile List<DocumentationResolver> resolvers = new LinkedList<DocumentationResolver>();
-	
-	Log log = LogFactoryUtil.getLog(getClass());
 }

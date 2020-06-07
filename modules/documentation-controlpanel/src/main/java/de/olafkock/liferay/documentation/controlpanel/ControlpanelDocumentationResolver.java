@@ -34,6 +34,11 @@ import de.olafkock.liferay.documentation.api.DocumentationResolver;
 public class ControlpanelDocumentationResolver implements DocumentationResolver {
 
 	@Override
+	public int getOrder() {
+		return 0;
+	}
+	
+	@Override
 	public DocumentationEntry getDocumentationEntry(HttpServletRequest request) {
 		ThemeDisplay themeDisplay = (ThemeDisplay) request.getAttribute(WebKeys.THEME_DISPLAY);
 
@@ -44,7 +49,7 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 		if(doFilter) {
 			String portletId = PortalUtil.getPortletId(request);
 			String secondary = getSecondaryTopic(request, portletId);
-			log.info("ControlPanel: Targeted Portlet ID: " + portletId + "/" + secondary);
+			log.debug("ControlPanel: Targeted Portlet ID: " + portletId + "/" + secondary);
 			return repository.getEntry(portletId, secondary);
 		}	
 
@@ -53,6 +58,8 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 	
 	protected String getSecondaryTopic(HttpServletRequest request, String portletId) {
 		for (String p : SECONDARY_KEYS) {
+			// we're operating on the decorated original servlet request, namespace still not resolved
+			// will break in case this way of namespacing ever changes.
 			String result = request.getParameter("_" + portletId + "_" + p);
 			if (result != null)
 				return HtmlUtil.escape(simplify(result));
@@ -83,53 +90,6 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 		repository = new CPDocRepository(config);
 	}
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	public DocumentationEntry getDocumentationEntryFake(HttpServletRequest request) {
-		ThemeDisplay themeDisplay = (ThemeDisplay) request.getAttribute(WebKeys.THEME_DISPLAY);
-
-		boolean doFilter = themeDisplay.getTheme().isControlPanelTheme()
-				&& ! "pop_up".equals(request.getParameter("p_p_state"));
-		
-		if(doFilter) {
-			return new DocumentationEntry() {
-				@Override
-				public boolean isScripted() {
-					return false;
-				}
-				@Override
-				public boolean isAudio() {
-					return true;
-				}
-				@Override
-				public boolean isDocumented() {
-					return true;
-				}
-				@Override
-				public String getScriptURL() {
-					return null;
-				}
-				@Override
-				public String getAudioURL() {
-					return "https://www.olafkock.de/liferay/audioguide/controlpanel.mp3";
-				}
-				@Override
-				public String getDocumentationUrl() {
-					return "http://localhost:8080/";
-				}
-			};
-		} else 
-			return null;
-	}
-
 	Log log = LogFactoryUtil.getLog(getClass());
 
 	private CPDocConfiguration config = null;
@@ -139,5 +99,5 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 	static final String[] SECONDARY_KEYS = new String[] { "toolbarItem", "type", "navigation", "tab", 
 			"tabs1", "tabs2", "configurationScreenKey", "pid", "factoryPid", "roleType",
 			"mvcRenderCommandName",	"mvcPath", "commerceAdminModuleKey"};
-	
+
 }
