@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<license>
+	<account-name>Liferay.com</account-name>
+	<owner>Olaf Kock</owner>
+	<description>Olaf Kock</description>
+	<product-name>Portal Development</product-name>
+	<product-version>7.0 DE</product-version>
+	<license-name>Portal Developer (Cluster)</license-name>
+	<license-type>developer-cluster</license-type>
+	<license-version>5</license-version>
+	<start-date>Wednesday, October 26, 2016 3:17:01 PM GMT</start-date>
+	<expiration-date>Friday, October 2, 2116 3:17:01 PM GMT</expiration-date>
+	<max-http-sessions>5</max-http-sessions>
+	<key>ee057a2c10ff0f20f908c62194372b9704d9e88f113b3946c99247d68a092094592a7f9fee24e06e7fe41566481d7c4a3631027510086f0f03ca26ce2403afaadb4c5d1426f61ca40a93f6797254fc9542b8072348c05a12a4f6405e08af273dbb5607a4dda22f1c40026cc47509a21d20f9352561ee044c83246736ba39f625bd58ca70</key>
+</license>

@@ -1,0 +1,96 @@
+/*
+body {
+	.control-menu {
+		background-color: darkkhaki;
+	}
+}
+*/
+
+.audioguidelink audio {
+	overflow: hidden;
+	width:0px;
+	float: left;
+	max-height: 1em;
+	margin-right: 10px;
+	transition: width 3000ms ease-in-out;
+}
+
+// To Do: Adapt to different screen widths
+
+.audioguidelink:hover audio {
+	width:350px;
+	transition: width 500ms ease-in-out;
+}
+
+.audioguideplaying {
+	animation: playerglow 2000ms infinite;
+}
+
+// To Do: is there a less manual way to define this transition?
+
+@keyframes playerglow {
+    0% {
+    	color: #fff;
+    }
+    5% {
+    	color: #eee;
+    }
+    10% {
+    	color: #ddd;
+    }
+    15% {
+    	color: #ccc;
+    }
+    20% {
+    	color: #bbb;
+    }
+    250% {
+    	color: #aaa;
+    }
+    30% {
+    	color: #999;
+    }
+    35% {
+    	color: #888;
+    }
+    40% {
+    	color: #777;
+    }
+	45% {
+    	color: #666;
+    }
+    50% {
+    	color: #555;
+    }
+    55% {
+    	color: #666;
+    }
+    60% {
+    	color: #777;
+    }
+    65% {
+    	color: #888;
+    }
+    70% {
+    	color: #999;
+    }
+	75% {
+    	color: #aaa;
+    }
+    80% {
+    	color: #bbb;
+    }
+    85% {
+    	color: #ccc;
+    }
+    90% {
+    	color: #ddd;
+    }
+    95% {
+    	color: #eee;
+    }
+    100% {
+    	color: #fff;
+    }
+}
+

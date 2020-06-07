@@ -1,0 +1,129 @@
+div.documentation-toast {
+    background-color: #f1f2f5;
+    position: fixed;
+    bottom: 0px;
+    width: 40%;
+    z-index: 1070;
+	transition-property: height, padding;
+	transition-duration: 1000ms;
+	transition-timing-function: ease-in-out;
+	margin-left:10px;
+    padding: 10px;
+    height: 50%;
+    border-color: #E7E7ED;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.5);
+	display: flex;
+	flex-flow: column;
+}
+
+div.toast-hidden {
+    height: 0px !important;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    overflow:hidden;
+}
+
+.documentation-toast div {
+	flex: 0 1 auto;
+	text-align:right;
+	width:100%;
+}
+
+.documentation-toast iframe {
+	flex: 1 1 auto;
+	width: 100%;
+    border-color: #E7E7ED;
+}
+
+
+
+.replay-highlight {
+	animation: replay-highlight-keys 2000ms infinite;
+}
+
+@keyframes replay-highlight-keys {
+    0% {
+    	outline: 1px solid #fff;
+		box-shadow: 0px 0px 15px 10px #fff;
+    }
+    5% {
+    	outline: 1px solid #fcc;
+		box-shadow: 1px 1px 18px 11px #fdd;
+    }
+    10% {
+    	outline: 1px solid #faa;
+		box-shadow: 2px 2px 20px 12px #fcc;
+    }
+    15% {
+    	outline: 2px solid #faa;
+		box-shadow: 2px 2px 23px 13px #fbb;
+    }
+    20% {
+    	outline: 2px solid #faa;
+		box-shadow: 2px 2px 25px 14px #faa;
+    }
+    25% {
+    	outline: 2px solid #faa;
+		box-shadow: 3px 3px 28px 15px #f88;
+    }
+    30% {
+    	outline: 2px solid #faa;
+		box-shadow: 3px 3px 30px 16px #f66;
+    }
+    35% {
+    	outline: 3px solid #faa;
+		box-shadow: 3px 3px 30px 17px #f44;
+    }
+    40% {
+    	outline: 3px solid #faa;
+		box-shadow: 4px 4px 30px 18px #f22;
+    }
+    45% {
+    	outline: 3px solid #faa;
+		box-shadow: 4px 4px 30px 19px #f11;
+    }
+    50% {
+    	outline: 4px solid red;
+		box-shadow: 5px 5px 40px 20px #f00;
+    }
+    55% {
+    	outline: 3px solid #faa;
+		box-shadow: 4px 4px 30px 19px #f11;
+    }
+    60% {
+    	outline: 3px solid #faa;
+		box-shadow: 4px 4px 30px 18px #f22;
+    }
+    65% {
+    	outline: 3px solid #faa;
+		box-shadow: 3px 3px 30px 17px #f44;
+    }
+    70% {
+    	outline: 2px solid #faa;
+		box-shadow: 3px 3px 30px 16px #f66;
+    }
+    75% {
+    	outline: 2px solid #faa;
+		box-shadow: 3px 3px 28px 15px #f88;
+    }
+    80% {
+    	outline: 2px solid #faa;
+		box-shadow: 2px 2px 25px 14px #faa;
+    }
+    85% {
+    	outline: 2px solid #faa;
+		box-shadow: 2px 2px 23px 13px #fbb;
+    }
+    90% {
+    	outline: 1px solid #faa;
+		box-shadow: 2px 2px 20px 12px #fcc;
+    }
+    95% {
+    	outline: 1px solid #fcc;
+		box-shadow: 1px 1px 18px 11px #fdd;
+    }
+    100% {
+    	outline: 1px solid #fff;
+		box-shadow: 0px 0px 15px 10px #fff;
+    }
+}
