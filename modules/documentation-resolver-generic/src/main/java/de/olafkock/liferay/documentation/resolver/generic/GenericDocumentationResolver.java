@@ -24,14 +24,17 @@ public class GenericDocumentationResolver implements DocumentationResolver {
 		Layout layout = themeDisplay.getLayout();
 		String layoutType = layout.getType();
 		if("portlet".equals(layoutType)) {
-			return new DocumentationEntryImpl("https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
+			return new DocumentationEntryImpl(
+					"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
 					"placeholder", "placeholder");
 		} else if("content".equals(layoutType)) {
 			if("edit".equals(request.getParameter("p_l_mode"))) {
-				return new DocumentationEntryImpl("https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=edit", 
+				return new DocumentationEntryImpl(
+						"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=edit", 
 						"placeholder", "placeholder");
 			} else {
-				return new DocumentationEntryImpl("https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=view", 
+				return new DocumentationEntryImpl(
+						"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=view", 
 						"placeholder", "placeholder");
 			}
 		}
