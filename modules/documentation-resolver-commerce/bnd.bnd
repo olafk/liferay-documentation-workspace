@@ -1,0 +1,4 @@
+Bundle-Name: documentation-resolver-commerce
+Bundle-SymbolicName: documentation.resolver.commerce
+Bundle-Version: 1.0.0
+Export-Package: documentation.resolver.commerce.constants
