@@ -1,4 +1,4 @@
-package de.olafkock.liferay.documentation.resolver.generic;
+package de.olafkock.liferay.documentation.defaultimpl;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
 
@@ -40,6 +40,11 @@ public class DocumentationEntryImpl implements DocumentationEntry {
 		return hasContent(scriptUrl);
 	}
 
+	@Override
+	public String toString() {
+		return "[" + documentationUrl + "," + audioUrl + "," + scriptUrl + "]"; 
+	}
+	
 	private boolean hasContent(String string) {
 		return string != null && ! string.isEmpty();
 	}
