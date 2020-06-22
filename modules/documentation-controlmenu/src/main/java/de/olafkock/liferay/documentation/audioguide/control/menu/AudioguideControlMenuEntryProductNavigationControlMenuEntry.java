@@ -75,15 +75,16 @@ public class AudioguideControlMenuEntryProductNavigationControlMenuEntry
 	@Override
 	public boolean isShow(HttpServletRequest request) throws PortalException {
 		DocumentationEntry entry = documentationResolver.getDocumentationEntry(request);
-
-		return entry != null && entry.isAudio();
+		boolean result = (entry != null && (entry.isAudio() || entry.isScripted()));
+		log.info("isShow returns " + result + " on " + (entry==null?"null":entry.getScriptURL()));
+		return result;
 	}
 		
 	@Override
 	public Map<String, Object> getData(HttpServletRequest request) {
 		DocumentationEntry entry = documentationResolver.getDocumentationEntry(request);
 		Map<String, Object> result = new HashMap<String, Object>();
-		if(entry != null && entry.isAudio()) {
+		if(entry != null && (entry.isAudio() || entry.isScripted())) {
 			result.put("audioguide-audio", entry.getAudioURL());
 			result.put("audioguide-script", entry.getScriptURL());
 			result.put("identifier", "audioguide");
