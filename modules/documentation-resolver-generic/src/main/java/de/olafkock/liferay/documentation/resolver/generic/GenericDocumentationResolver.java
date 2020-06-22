@@ -10,6 +10,7 @@ import org.osgi.service.component.annotations.Component;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
 import de.olafkock.liferay.documentation.api.DocumentationResolver;
+import de.olafkock.liferay.documentation.defaultimpl.DocumentationEntryImpl;
 
 @Component(
 	immediate=true,
@@ -26,7 +27,8 @@ public class GenericDocumentationResolver implements DocumentationResolver {
 		if("portlet".equals(layoutType)) {
 			return new DocumentationEntryImpl(
 					"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
-					"placeholder", "placeholder");
+					"https://www.olafkock.de/liferay/audioguide/widgetpage-generic.mp3", 
+					null);
 		} else if("content".equals(layoutType)) {
 			if("edit".equals(request.getParameter("p_l_mode"))) {
 				return new DocumentationEntryImpl(
