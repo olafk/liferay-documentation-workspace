@@ -1,0 +1,99 @@
+[
+	{
+		"name": "Contentpage View Generic Audioguide",
+		"media": "https://www.olafkock.de/liferay/audioguide/contentpage-view-generic.mp3",
+		"command": [
+            {
+				"command": "highlight",
+				"timeStart": 0,
+				"timeEnd": 3,
+				"payload": ".control-menu-nav .text-muted.truncate-text"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 17,
+				"timeEnd": 32,
+				"payload": "[data-title=\"Edit\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 32,
+				"timeEnd": 36,
+				"payload": "[data-qa-id=\"editLayout\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 36,
+				"timeEnd": 43,
+				"payload": "#_com_liferay_product_navigation_simulation_web_portlet_SimulationPortlet_simulationToggleId"
+			},
+			{
+				"command": "click",
+				"timeStart": 38,
+				"timeEnd": 39,
+				"payload": "#_com_liferay_product_navigation_simulation_web_portlet_SimulationPortlet_simulationToggleId:not(.active)"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 39,
+				"timeEnd": 40,
+				"payload": ".default-devices button"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 41,
+				"timeEnd": 42,
+				"payload": ".default-devices button[data-device=tablet]"
+			},
+			{
+				"command": "click",
+				"timeStart": 41,
+				"timeEnd": 42,
+				"payload": ".default-devices button[data-device=tablet]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 42,
+				"timeEnd": 44,
+				"payload": ".default-devices button[data-device=smartphone]"
+			},
+			{
+				"command": "click",
+				"timeStart": 42,
+				"timeEnd": 43,
+				"payload": ".default-devices button[data-device=smartphone]"
+			},
+			{
+				"command": "click",
+				"timeStart": 43,
+				"timeEnd": 44,
+				"payload": ".default-devices button[data-device=smartphone]"
+			},
+			{
+				"command": "click",
+				"timeStart": 44,
+				"timeEnd": 45,
+				"payload": "#_com_liferay_product_navigation_simulation_web_portlet_SimulationPortlet_simulationToggleId.active"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 43,
+				"timeEnd": 53,
+				"payload": "#_com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet_segmentsExperimentPanelToggleId"
+			},
+			{
+				"command": "click",
+				"timeStart": 44,
+				"timeEnd": 45,
+				"payload": "#_com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet_segmentsExperimentPanelToggleId:not(active)"
+			},
+			{
+				"command": "click",
+				"timeStart": 52,
+				"timeEnd": 53,
+				"payload": "#_com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet_segmentsExperimentPanelToggleId.active"
+			}
+		]
+	}
+]
+

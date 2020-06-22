@@ -1,0 +1,147 @@
+[
+	{
+		"name": "Widgetpage Generic Audioguide",
+		"media": "https://www.olafkock.de/liferay/audioguide/widgetpage-generic.mp3",
+		"command": [
+			{
+				"command": "highlight",
+				"timeStart": 1,
+				"timeEnd": 4,
+				"payload": ".control-menu-nav .text-muted.truncate-text"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 4,
+				"timeEnd": 9,
+				"payload": "#ControlMenu"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 8,
+				"timeEnd": 10,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_sidenavToggleId"
+			},
+			{
+				"command": "click",
+				"timeStart": 10,
+				"timeEnd": 11,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_sidenavToggleId:not(.active)"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 10,
+				"timeEnd": 12,
+				"payload": "[data-qa-id=\"productMenuControlPanelCategory\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 11,
+				"timeEnd": 12,
+				"payload": ".collapsed[data-qa-id=\"productMenuControlPanelCategory\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 13,
+				"timeEnd": 15,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_site_administrationToggler"
+			},
+			{
+				"command": "click",
+				"timeStart": 14,
+				"timeEnd": 15,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_site_administrationToggler.collapsed"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 25,
+				"timeEnd": 38,
+				"payload": "[data-qa-id=\"editLayout\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 39,
+				"timeEnd": 42,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addToggleId a"
+			},
+			{
+				"command": "click",
+				"timeStart": 41,
+				"timeEnd": 42,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addToggleId:not(.active)"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 44,
+				"timeEnd": 48,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addApplicationHeading a"
+			},
+			{
+				"command": "click",
+				"timeStart": 45,
+				"timeEnd": 46,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addApplicationHeading a.collapsed"
+			},
+
+			{
+				"command": "highlight",
+				"timeStart": 47,
+				"timeEnd": 50,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addApplicationCollapse"
+			},
+			{
+				"command": "click",
+				"timeStart": 48,
+				"timeEnd": 49,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addApplicationCollapse a.panel-header-link.collapsed"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 39,
+				"timeEnd": 42,
+				"payload": "[data-qa-id=\"addMenuAddApplicationCategory\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 41,
+				"timeEnd": 42,
+				"payload": ".collapsed[data-qa-id=\"addMenuAddApplicationCategory\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 59,
+				"timeEnd": 65,
+				"payload": ".portlet-column"
+			},
+			
+			{
+				"command": "highlight",
+				"timeStart": 65,
+				"timeEnd": 70,
+				"payload": "[data-qa-id=\"editLayout\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 76,
+				"timeEnd": 80,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addContentHeading"
+			},
+			{
+				"command": "scroll",
+				"timeStart": 76,
+				"timeEnd": 77,
+				"payload": "#_com_liferay_product_navigation_control_menu_web_portlet_ProductNavigationControlMenuPortlet_addContentHeading"
+			},
+			{
+				"command": "click",
+				"timeStart": 77,
+				"timeEnd": 78,
+				"payload": "[data-qa-id=\"addMenuAddContentCategory\"]"
+			}
+
+			
+
+			
+		]
+	}
+]
+

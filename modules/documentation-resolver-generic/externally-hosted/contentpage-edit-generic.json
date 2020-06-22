@@ -1,0 +1,128 @@
+[
+	{
+		"name": "Contentpage Edit Generic Audioguide",
+		"media": "https://www.olafkock.de/liferay/audioguide/contentpage-edit-generic.mp3",
+		"command": [
+            {
+				"command": "highlight",
+				"timeStart": 2,
+				"timeEnd": 7,
+				"payload": ".fragments-editor-sidebar"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 2,
+				"timeEnd": 7,
+				"payload": ".fragments-editor-sidebar-sections-buttons"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 2,
+				"timeEnd": 7,
+				"payload": ".sidebar-fragments-section"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 8,
+				"timeEnd": 17,
+				"payload": ".fragments-editor__drop-target"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 18,
+				"timeEnd": 25,
+				"payload": ".segments-experience-selector"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 31,
+				"timeEnd": 34,
+				"payload": "button[data-sidebar-panel-id=\"sections\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 32,
+				"timeEnd": 33,
+				"payload": "button[data-sidebar-panel-id=\"sections\"]:not(.fragments-editor-sidebar-sections-buttons__btn--active)"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 34,
+				"timeEnd": 38,
+				"payload": "button[data-sidebar-panel-id=\"elements\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 35,
+				"timeEnd": 36,
+				"payload": "button[data-sidebar-panel-id=\"elements\"]:not(.fragments-editor-sidebar-sections-buttons__btn--active)"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 36,
+				"timeEnd": 45,
+				"payload": ".sidebar-fragment-collections"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 47,
+				"timeEnd": 49,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_sidenavToggleId"
+			},
+			{
+				"command": "click",
+				"timeStart": 48,
+				"timeEnd": 49,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_sidenavToggleId:not(.active)"
+			},
+			{
+				"command": "click",
+				"timeStart": 49,
+				"timeEnd": 50,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_site_administrationToggler.collapsed"
+			},
+			{
+				"command": "click",
+				"timeStart": 50,
+				"timeEnd": 51,
+				"payload": "a[href=\"#panel-manage-site_administration_build\"].collapsed"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 51,
+				"timeEnd": 56,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_fragment_web_portlet_FragmentPortlet"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 56,
+				"timeEnd": 68,
+				"payload": "button[data-sidebar-panel-id=\"widgets\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 57,
+				"timeEnd": 58,
+				"payload": "button.fragments-editor-sidebar-sections-buttons__btn[data-sidebar-panel-id=\"widgets\"]:not(.fragments-editor-sidebar-sections-buttons__btn--active)"
+			},			
+			{
+				"command": "highlight",
+				"timeStart": 69,
+				"timeEnd": 79,
+				"payload": "button[data-sidebar-panel-id=\"page-structure\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 70,
+				"timeEnd": 71,
+				"payload": "button[data-sidebar-panel-id=\"page-structure\"]:not(.fragments-editor-sidebar-sections-buttons__btn--active)"
+			},			
+            {
+				"command": "highlight",
+				"timeStart": 80,
+				"timeEnd": 90,
+				"payload": "button[data-sidebar-panel-id=\"lookAndFeel\"]"
+			}		]
+	}
+]
+
