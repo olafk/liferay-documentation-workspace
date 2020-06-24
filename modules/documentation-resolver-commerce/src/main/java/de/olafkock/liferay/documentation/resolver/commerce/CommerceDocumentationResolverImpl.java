@@ -15,7 +15,7 @@ import de.olafkock.liferay.documentation.api.DocumentationResolver;
  * resolves documentation for commerce-pages created by the demo-accellerators based on 
  * the pages' names.
  *
- * Currently an empty implementation
+ * Or rather: It <em>would</em> resolve... Currently an empty implementation
  * 
  * @author olaf
  */
@@ -33,25 +33,25 @@ public class CommerceDocumentationResolverImpl implements DocumentationResolver 
 		Layout layout = themeDisplay.getLayout();
 		String friendlyURL = layout.getFriendlyURL();
 		if("/dashboard".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/catalog".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/pending-orders".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/placed-orders".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/account-management".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/report-product-defect".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/knowledge-base".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/sales-library".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/account-management".equals(friendlyURL)) {
-			
+			// TODO
 		} else if("/account-management".equals(friendlyURL)) {
-			
+			// TODO
 		}   
 		
 		return null;
