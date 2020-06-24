@@ -1,0 +1,93 @@
+[
+	{
+		"name": "User Management Audioguide",
+		"media": "https://www.olafkock.de/liferay/audioguide/usermanagement-controlpanel-audioguide.mp3",
+		"command": [
+            {
+				"command": "highlight",
+				"timeStart": 24,
+				"timeEnd": 32,
+				"payload": "li.nav-item[data-nav-item-index=\"1\"] a"
+			},
+			{
+				"command": "click",
+				"timeStart": 30,
+				"timeEnd": 31,
+				"payload": ".collapsed[data-qa-id=\"productMenuControlPanelCategory\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 31,
+				"timeEnd": 32,
+				"payload": ".collapsed[href=\"#panel-manage-control_panel_users\"]"
+			},
+			{
+				"command": "scroll",
+				"timeStart": 32,
+				"timeEnd": 33,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 32,
+				"timeEnd": 36,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_user_groups_admin_web_portlet_UserGroupsAdminPortlet"
+			},
+			{
+				"command": "scroll",
+				"timeStart": 46,
+				"timeEnd": 47,
+				"payload": "a[href=\"#panel-manage-control_panel_configuration\"]"
+			},
+			{
+				"command": "click",
+				"timeStart": 47,
+				"timeEnd": 48,
+				"payload": "a.collapsed[href=\"#panel-manage-control_panel_configuration\"]"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 48,
+				"timeEnd": 55,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet"
+			},	
+			{
+				"command": "highlight",
+				"timeStart": 51,
+				"timeEnd": 55,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet"
+			},
+			{
+				"command": "scroll",
+				"timeStart": 48,
+				"timeEnd": 49,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet"
+			},
+			{
+				"command": "highlight",
+				"timeStart": 60,
+				"timeEnd": 70,
+				"payload": "#_com_liferay_users_admin_web_portlet_UsersAdminPortlet_usersSearchContainer"
+			},
+			{
+				"command": "click",
+				"timeStart": 72,
+				"timeEnd": 73,
+				"payload": "a.collapsed[href=\"#panel-manage-control_panel_configuration\"]"
+			},
+            {
+				"command": "highlight",
+				"timeStart": 73,
+				"timeEnd": 78,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet"
+			},
+			{
+				"command": "scroll",
+				"timeStart": 73,
+				"timeEnd": 74,
+				"payload": "#_com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet_portlet_com_liferay_portal_search_admin_web_portlet_SearchAdminPortlet"
+			}
+		]
+	}
+]
+
