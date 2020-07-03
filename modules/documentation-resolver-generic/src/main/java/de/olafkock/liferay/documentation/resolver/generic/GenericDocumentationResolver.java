@@ -27,8 +27,8 @@ public class GenericDocumentationResolver implements DocumentationResolver {
 		if("portlet".equals(layoutType)) {
 			return new DocumentationEntryImpl(
 					"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
-					"https://www.olafkock.de/liferay/audioguide/widgetpage-generic.mp3", 
-					null);
+					null, 
+					"https://www.olafkock.de/liferay/audioguide/widgetpage-generic.json");
 		} else if("content".equals(layoutType)) {
 			if("edit".equals(request.getParameter("p_l_mode"))) {
 				return new DocumentationEntryImpl(
