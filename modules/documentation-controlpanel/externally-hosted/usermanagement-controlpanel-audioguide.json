@@ -5,6 +5,12 @@
 		"command": [
             {
 				"command": "highlight",
+				"timeStart": 5,
+				"timeEnd": 10,
+				"payload": "td.entry-action-column div"
+			},
+            {
+				"command": "highlight",
 				"timeStart": 24,
 				"timeEnd": 32,
 				"payload": "li.nav-item[data-nav-item-index=\"1\"] a"
