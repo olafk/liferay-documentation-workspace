@@ -76,7 +76,7 @@ public class AudioguideControlMenuEntryProductNavigationControlMenuEntry
 	public boolean isShow(HttpServletRequest request) throws PortalException {
 		DocumentationEntry entry = documentationResolver.getDocumentationEntry(request);
 		boolean result = (entry != null && (entry.isAudio() || entry.isScripted()));
-		log.info("isShow returns " + result + " on " + (entry==null?"null":entry.getScriptURL()));
+		log.debug("isShow returns " + result + " on " + (entry==null?"null":entry.getScriptURL()));
 		return result;
 	}
 		
