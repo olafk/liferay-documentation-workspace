@@ -1,4 +1,4 @@
-package de.olafkock.liferay.documentation.controlpanel.resources;
+package de.olafkock.liferay.documentation.controlpanel.authoring.api;
 
 import com.liferay.portal.kernel.json.JSON;
 

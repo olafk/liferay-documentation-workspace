@@ -1,7 +1,7 @@
 package de.olafkock.liferay.documentation.controlpanel;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
-import de.olafkock.liferay.documentation.controlpanel.resources.URLConfig;
+import de.olafkock.liferay.documentation.controlpanel.authoring.api.URLConfig;
 
 final class DocumentationEntryAdapter implements DocumentationEntry {
 	private final URLConfig secondaryUrlConfig;

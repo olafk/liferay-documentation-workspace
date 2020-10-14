@@ -11,12 +11,11 @@ import aQute.bnd.annotation.metatype.Meta;
 public interface CPDocConfiguration {
     
 	@Meta.AD(
-            deflt = "https://www.olafkock.de/liferay/controlpaneldocumentation/content.json",
+            deflt = "https://www.olafkock.de/liferay/controlpaneldocumentation/7.3/content.json",
             description = "directory-url-description",
             name = "directory-url",
             required = false
         )
 
 	public String directoryURL();
-    
 }
