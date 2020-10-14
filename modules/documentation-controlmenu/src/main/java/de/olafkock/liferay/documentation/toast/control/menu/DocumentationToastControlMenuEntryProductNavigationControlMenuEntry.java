@@ -72,7 +72,7 @@ public class DocumentationToastControlMenuEntryProductNavigationControlMenuEntry
 		DocumentationEntry entry = documentationResolver.getDocumentationEntry(request);
 		Map<String, Object> result = new HashMap<String, Object>();
 		if(entry != null && entry.isDocumented()) {
-			result.put("documentation-toast", entry.getDocumentationUrl());
+			result.put("documentationtoast", entry.getDocumentationUrl());
 			result.put("documentation-edit", "xxxx");
 			result.put("identifier", "toast");
 		}

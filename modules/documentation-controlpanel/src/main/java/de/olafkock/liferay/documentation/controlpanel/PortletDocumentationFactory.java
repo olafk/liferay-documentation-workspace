@@ -1,4 +1,4 @@
-package de.olafkock.liferay.documentation.controlpanel.resources;
+package de.olafkock.liferay.documentation.controlpanel;
 
 import com.liferay.portal.kernel.json.JSONFactoryUtil;
 import com.liferay.portal.kernel.log.Log;
@@ -11,6 +11,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Map;
+
+import de.olafkock.liferay.documentation.controlpanel.authoring.api.PortletDocumentation;
 
 /**
  * Read configuration from whereever. Yes, it's completely hardcoded in this 

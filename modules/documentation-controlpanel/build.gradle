@@ -9,4 +9,5 @@ dependencies {
 	compileOnly group: "javax.portlet", name: "portlet-api"
 
 	compileOnly project(":modules:documentation-api")
+	compileOnly project(":modules:documentation-controlpanel-authoring-api")
 }

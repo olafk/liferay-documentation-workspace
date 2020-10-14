@@ -85,8 +85,8 @@ public class AudioguideControlMenuEntryProductNavigationControlMenuEntry
 		DocumentationEntry entry = documentationResolver.getDocumentationEntry(request);
 		Map<String, Object> result = new HashMap<String, Object>();
 		if(entry != null && (entry.isAudio() || entry.isScripted())) {
-			result.put("audioguide-audio", entry.getAudioURL());
-			result.put("audioguide-script", entry.getScriptURL());
+			result.put("audioguideaudio", entry.getAudioURL());
+			result.put("audioguidescript", entry.getScriptURL());
 			result.put("identifier", "audioguide");
 		}
 		return result;

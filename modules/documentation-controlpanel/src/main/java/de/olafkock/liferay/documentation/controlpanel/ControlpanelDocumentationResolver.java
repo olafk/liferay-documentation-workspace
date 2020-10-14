@@ -28,6 +28,7 @@ import de.olafkock.liferay.documentation.api.DocumentationResolver;
 	immediate = true,
 	configurationPid = "de.olafkock.liferay.documentation.controlpanel.CPDocConfiguration",
 	property = {
+			"de.olafkock.liferay.usage=ControlPanelDocumentation"
 	},
 	service = DocumentationResolver.class
 )

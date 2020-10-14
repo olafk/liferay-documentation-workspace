@@ -6,9 +6,8 @@ import com.liferay.portal.kernel.log.LogFactoryUtil;
 import java.util.Map;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
-import de.olafkock.liferay.documentation.controlpanel.resources.PortletDocumentation;
-import de.olafkock.liferay.documentation.controlpanel.resources.PortletDocumentationFactory;
-import de.olafkock.liferay.documentation.controlpanel.resources.URLConfig;
+import de.olafkock.liferay.documentation.controlpanel.authoring.api.PortletDocumentation;
+import de.olafkock.liferay.documentation.controlpanel.authoring.api.URLConfig;
 
 public class CPDocRepository {
 
@@ -31,33 +30,6 @@ public class CPDocRepository {
 		}
 		
 		return null;
-		
-//		return new DocumentationEntry() {
-//			@Override
-//			public boolean isScripted() {
-//				return true;
-//			}
-//			@Override
-//			public boolean isAudio() {
-//				return true;
-//			}
-//			@Override
-//			public String getScriptURL() {
-//				return "https://www.olafkock.de/liferay/audioguide/widgetpage-demo.json";
-//			}
-//			@Override
-//			public String getAudioURL() {
-//				return "https://www.olafkock.de/liferay/audioguide/widgetpage-demo.json";
-//			}
-//			@Override
-//			public String getDocumentationUrl() {
-//				return "http://localhost:7280";
-//			}
-//			@Override
-//			public boolean isDocumented() {
-//				return true;
-//			}
-//		};
 	}
 	Log log = LogFactoryUtil.getLog(getClass());
 }
