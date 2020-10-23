@@ -1,4 +1,4 @@
 Bundle-Name: documentation-controlpanel-authoring-api
 Bundle-SymbolicName: documentation.controlpanel.authoring.api
-Bundle-Version: 1.0.0
+Bundle-Version: 2.1.0
 Export-Package: de.olafkock.liferay.documentation.controlpanel.authoring.api
