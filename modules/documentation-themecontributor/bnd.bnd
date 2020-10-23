@@ -1,5 +1,5 @@
 Bundle-Name: documentation-themecontributor
 Bundle-SymbolicName: de.olafkock.liferay.documentation.themecontributor
-Bundle-Version: 1.0.0
+Bundle-Version: 2.1.0
 Liferay-Theme-Contributor-Type: documentation-themecontributor
 Web-ContextPath: /documentation-themecontributor
