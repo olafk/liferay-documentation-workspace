@@ -93,7 +93,7 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 
 	Log log = LogFactoryUtil.getLog(getClass());
 
-	private CPDocConfiguration config = null;
+	private volatile CPDocConfiguration config = null;
 
 	private CPDocRepository repository = null;
 	

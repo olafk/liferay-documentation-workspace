@@ -6,6 +6,16 @@ body {
 }
 */
 
+.fade.applications-menu-modal{
+	transition: opacity 1s linear;
+}
+
+.applications-menu-modal {
+	.modal.fade .modal-dialog {
+		transition: transform 1s ease-in-out;
+	}
+}
+
 .audioguidelink audio {
 	overflow: hidden;
 	width:0px;
@@ -23,74 +33,32 @@ body {
 }
 
 .audioguideplaying {
-	animation: playerglow 2000ms infinite;
+	animation: playerglow 4000ms infinite;
 }
 
 // To Do: is there a less manual way to define this transition?
 
 @keyframes playerglow {
-    0% {
-    	color: #fff;
-    }
-    5% {
-    	color: #eee;
-    }
-    10% {
-    	color: #ddd;
-    }
-    15% {
-    	color: #ccc;
-    }
-    20% {
-    	color: #bbb;
-    }
-    250% {
-    	color: #aaa;
-    }
-    30% {
-    	color: #999;
-    }
-    35% {
-    	color: #888;
-    }
-    40% {
-    	color: #777;
-    }
-	45% {
-    	color: #666;
-    }
-    50% {
-    	color: #555;
-    }
-    55% {
-    	color: #666;
-    }
-    60% {
-    	color: #777;
-    }
-    65% {
-    	color: #888;
-    }
-    70% {
-    	color: #999;
-    }
-	75% {
-    	color: #aaa;
-    }
-    80% {
-    	color: #bbb;
-    }
-    85% {
-    	color: #ccc;
-    }
-    90% {
-    	color: #ddd;
-    }
-    95% {
-    	color: #eee;
-    }
-    100% {
-    	color: #fff;
-    }
+    0%  { color: #fff; }
+    5%  { color: #eee; }
+    10% { color: #ddd; }
+    15% { color: #ccc; }
+    20% { color: #bbb; }
+    25% { color: #aaa; }
+    30% { color: #999; }
+    35% { color: #888; }
+    40% { color: #777; }
+	45% { color: #666; }
+    50% { color: #555; }
+    55% { color: #666; }
+    60% { color: #777; }
+    65% { color: #888; }
+    70% { color: #999; }
+	75% { color: #aaa; }
+    80% { color: #bbb; }
+    85% { color: #ccc; }
+    90% { color: #ddd; }
+    95% { color: #eee; }
+    100% {color: #fff; }
 }
 
