@@ -47,7 +47,6 @@ public class DocumentationToastControlMenuEntryProductNavigationControlMenuEntry
 	public String getLabel(Locale locale) {
 		ResourceBundle resourceBundle = ResourceBundleUtil.getBundle(
 			"content.Language", locale, getClass());
-
 		return LanguageUtil.get(resourceBundle, "show-documentation-toast");
 	}
 
@@ -57,9 +56,14 @@ public class DocumentationToastControlMenuEntryProductNavigationControlMenuEntry
 	}
 
 	@Override
-		public String getLinkCssClass(HttpServletRequest httpServletRequest) {
-			return "nothidden toastlink";
-		}
+	public String getLinkCssClass(HttpServletRequest httpServletRequest) {
+		return "nothidden toastlink control-menu-icon";
+	}
+	
+	@Override
+	public String getIconCssClass(HttpServletRequest httpServletRequest) {
+		return super.getIconCssClass(httpServletRequest) + " icon-monospaced";
+	}
 	
 	@Override
 	public boolean isShow(HttpServletRequest request) throws PortalException {

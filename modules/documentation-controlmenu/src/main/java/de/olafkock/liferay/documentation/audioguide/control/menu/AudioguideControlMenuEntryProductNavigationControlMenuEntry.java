@@ -69,7 +69,12 @@ public class AudioguideControlMenuEntryProductNavigationControlMenuEntry
 
 	@Override
 	public String getLinkCssClass(HttpServletRequest httpServletRequest) {
-		return "audioguidelink";
+		return "audioguidelink control-menu-icon";
+	}
+	
+	@Override
+	public String getIconCssClass(HttpServletRequest httpServletRequest) {
+		return super.getIconCssClass(httpServletRequest) + " icon-monospaced";
 	}
 	
 	@Override
