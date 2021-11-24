@@ -12,6 +12,8 @@ import java.io.InputStream;
 import java.util.HashMap;
 import java.util.Map;
 
+import org.osgi.framework.Version;
+
 import de.olafkock.liferay.documentation.controlpanel.authoring.api.PortletDocumentation;
 
 /**
@@ -32,7 +34,11 @@ public class PortletDocumentationFactory {
 	 */
 	public static Map<String, PortletDocumentation> getDirectory(String directoryUrl) {
 		if(JSONFactoryUtil.getJSONFactory() == null) return null; // not yet initialized
-		
+		if(directoryUrl.indexOf("${version}")>0) {
+			Version currentVersion = new Version(ReleaseInfo.getVersion());
+			String sVersion = currentVersion.getMajor() + "." + currentVersion.getMinor();
+			directoryUrl = directoryUrl.replace("${version}", sVersion);
+		}
 		HashMap<String, PortletDocumentation> result = new HashMap<String, PortletDocumentation>();
 		try {
 			String json = null;
