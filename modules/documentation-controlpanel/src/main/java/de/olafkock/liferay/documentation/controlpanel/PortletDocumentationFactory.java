@@ -43,7 +43,8 @@ public class PortletDocumentationFactory {
 		try {
 			String json = null;
 			try {
-				String location = directoryUrl + "?v=" + ReleaseInfo.getVersion();
+				// Note: getVersionDisplayName was introduced - according to LPS-144747 - in DXP 7.4 Update 3 / CE 7.4 GA7
+				String location = directoryUrl + "?v=" + ReleaseInfo.getVersionDisplayName().replace(' ', '+');
 				json = HttpUtil.URLtoString(location);
 				log.info("read " + json.length() + " characters config from " + location);
 			} catch (IOException e) {

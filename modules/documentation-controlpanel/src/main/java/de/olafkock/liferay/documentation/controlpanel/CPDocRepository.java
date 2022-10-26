@@ -28,8 +28,10 @@ public class CPDocRepository {
 				return new DocumentationEntryAdapter(secondaryUrlConfig);
 			}
 		}
-		
+
+		log.warn("Missing documentation for " + portletId + " " + secondary);
 		return null;
 	}
+	
 	Log log = LogFactoryUtil.getLog(getClass());
 }

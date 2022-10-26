@@ -96,9 +96,9 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 	private volatile CPDocConfiguration config = null;
 
 	private CPDocRepository repository = null;
-	
+
 	static final String[] SECONDARY_KEYS = new String[] { "toolbarItem", "type", "navigation", "tab", 
-			"tabs1", "tabs2", "configurationScreenKey", "pid", "factoryPid", "roleType",
-			"mvcRenderCommandName",	"mvcPath", "commerceAdminModuleKey"};
+			"tabs1", "tabs2", "configurationScreenKey", "screenNavigationCategoryKey", "pid", 
+			"factoryPid", "roleType", "mvcRenderCommandName", "mvcPath", "commerceAdminModuleKey"};
 
 }

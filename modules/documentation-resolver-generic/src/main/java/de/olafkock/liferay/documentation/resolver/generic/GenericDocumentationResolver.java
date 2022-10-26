@@ -26,17 +26,17 @@ public class GenericDocumentationResolver implements DocumentationResolver {
 		String layoutType = layout.getType();
 		if("portlet".equals(layoutType)) {
 			return new DocumentationEntryImpl(
-					"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
+					"https://www.olafkock.de/liferay/controlpaneldocumentation/7.4/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?portlet=y", 
 					null, 
 					"https://www.olafkock.de/liferay/audioguide/widgetpage-generic.json");
 		} else if("content".equals(layoutType)) {
 			if("edit".equals(request.getParameter("p_l_mode"))) {
 				return new DocumentationEntryImpl(
-						"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=edit", 
+						"https://www.olafkock.de/liferay/controlpaneldocumentation/7.4/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=edit", 
 						"placeholder", "placeholder");
 			} else {
 				return new DocumentationEntryImpl(
-						"https://www.olafkock.de/liferay/controlpaneldocumentation/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=view", 
+						"https://www.olafkock.de/liferay/controlpaneldocumentation/7.4/com_liferay_layout_admin_web_portlet_GroupPagesPortlet.html?content=view", 
 						"placeholder", "placeholder");
 			}
 		}
