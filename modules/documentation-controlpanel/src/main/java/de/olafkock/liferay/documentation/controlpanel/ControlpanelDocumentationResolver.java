@@ -5,7 +5,6 @@ import com.liferay.portal.kernel.log.Log;
 import com.liferay.portal.kernel.log.LogFactoryUtil;
 import com.liferay.portal.kernel.module.configuration.ConfigurationProvider;
 import com.liferay.portal.kernel.theme.ThemeDisplay;
-import com.liferay.portal.kernel.util.HtmlUtil;
 import com.liferay.portal.kernel.util.PortalUtil;
 import com.liferay.portal.kernel.util.WebKeys;
 
@@ -20,6 +19,7 @@ import org.osgi.service.component.annotations.Reference;
 
 import de.olafkock.liferay.documentation.api.DocumentationEntry;
 import de.olafkock.liferay.documentation.api.DocumentationResolver;
+import de.olafkock.liferay.documentation.defaultimpl.ControlPanelSecondaryKeyResolver;
 
 /**
  * @author olaf
@@ -57,23 +57,8 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 		return null;
 	}
 	
-	protected String getSecondaryTopic(HttpServletRequest request, String portletId) {
-		for (String p : SECONDARY_KEYS) {
-			// we're operating on the decorated original servlet request, namespace still not resolved
-			// will break in case this way of namespacing ever changes.
-			String result = request.getParameter("_" + portletId + "_" + p);
-			if (result != null)
-				return HtmlUtil.escape(simplify(result));
-		}
-		return "-";
-	}
-
-	private String simplify(String result) {
-		if(result.startsWith("/")) {
-			result = result.substring(1);
-		}
-		result = result.replace('/', '_');
-		return result;
+	public static String getSecondaryTopic(HttpServletRequest request, String portletId) {
+		return ControlPanelSecondaryKeyResolver.getSecondaryTopic(request, portletId);
 	}
 
 	@Reference
@@ -96,9 +81,5 @@ public class ControlpanelDocumentationResolver implements DocumentationResolver 
 	private volatile CPDocConfiguration config = null;
 
 	private CPDocRepository repository = null;
-
-	static final String[] SECONDARY_KEYS = new String[] { "toolbarItem", "type", "navigation", "tab", 
-			"tabs1", "tabs2", "configurationScreenKey", "screenNavigationCategoryKey", "pid", 
-			"factoryPid", "roleType", "mvcRenderCommandName", "mvcPath", "commerceAdminModuleKey"};
 
 }
